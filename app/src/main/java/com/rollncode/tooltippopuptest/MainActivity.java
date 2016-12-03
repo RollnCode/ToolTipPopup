@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.button).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                new TooltipPopup.Builder(view, android.R.drawable.ic_btn_speak_now)
+                new TooltipPopup.Builder(view, R.drawable.tooltip_dots)
                         .setAboveAnchor(false)
                         .setGravity(Gravity.START)
                         .show();
