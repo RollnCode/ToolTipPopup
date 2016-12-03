@@ -28,6 +28,3 @@ dependencies {
 You need to use TooltipPopup.Builder to make new Tooltip and show it. Just set your view in TooltipPopup.Builder constructor and an image that will be shown like Tooltip. You can also use setters to add some params. Call show() to show your Tooltip.
 The image can be like this:
 ![enter image description here](https://dl.dropboxusercontent.com/u/100956433/img_tooltip_three_dots.png)
-
-###Contacts
-Site: http://rollncode.com
