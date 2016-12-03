@@ -4,7 +4,7 @@
 Simple ToolTip Popup that will be shown near your view.
 ## Getting Started
 ### Dependency
-Include the dependency [Download (.aar)](https://github.com/RollnCodeGit/Media-Library/blob/master/release/library-release.aar) and place it in your libs directory:
+Include the dependency [Download (.aar)](https://github.com/RollnCode/ToolTipPopup/blob/master/app/libs/tooltippopup.aar) and place it in your libs directory:
 ```groovy
 allprojects {
     repositories {
